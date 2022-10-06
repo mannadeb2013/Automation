@@ -5,7 +5,7 @@ public class searchGoogle {
 
 
 	public static void Google() {
-		System.setProperty("WebDriver.Chro, null)
+		System.setProperty(null, null)
 		
 	}
 	
